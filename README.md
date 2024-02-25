@@ -1,16 +1,22 @@
 # Magnetic Cases for the Typeractive Corne
-![3FD27A6B-C567-4541-9C4D-D3E8F168171B_1_201_a](https://github.com/MateoBodon/Corne-Case-Accesorie-Design/assets/55267042/42e29896-1a31-4c79-a021-71f89bf9a0c1)
+<img src="https://github.com/MateoBodon/Corne-Case-Accesorie-Design/assets/55267042/42e29896-1a31-4c79-a021-71f89bf9a0c1" height = "600">
 
 
 ## Introduction
 
-Welcome to the repository hosting my magnetic keyboard case designs for the Typeractive Corne keyboard. In this collection, you'll discover innovative solutions tailored to enhance your mechanical keyboard experience. Below is a list of the designs available, offered in both slim and thick variants:
+Welcome to the repository hosting my magnetic keyboard case designs for the Typeractive Corne keyboard. 
+
+In this collection, you'll discover innovative solutions tailored to enhance your mechanical keyboard experience. Below is a list of the designs available, offered in both slim and thick variants:
 
 - A magnetic keyboard case
 - A magnetic carrying case
 - A magnetic wrist rest
 
 These designs are specifically made for the 5 column Choc keyboard, with plans to accommodate other sizes in the future.
+
+### About the Typeractive Corne Keyboard
+
+The parts to build the Typeractive Corne Keyboard can be purchased at [typeractive.xyz](https://typeractive.xyz). For resources and help building the keyboard, you can refer to their documentation [here](https://docs.typeractive.xyz/build-guides/corne-wireless) and this YouTube video [https://youtu.be/uT9ohua2RwY](https://youtu.be/uT9ohua2RwY). The magnetic cases are designed for completely assembled builds, ensuring a perfect fit and seamless integration with your custom Typeractive Corne Keyboard.
 
 ## Getting Started
 
@@ -79,9 +85,8 @@ We have provided the STL files for all parts required to assemble the cases. Bel
 
 ### Comparison Image
 
-![02038BF4-207D-4339-97F0-1ED8EB2BA460_1_102_o](https://github.com/MateoBodon/Corne-Case-Accesorie-Design/assets/55267042/8c244ba0-3562-47c0-8e3b-fd2d0324cad0)
-![4FAFD35D-2673-4FCF-956E-712E80D4A6FE_1_102_o](https://github.com/MateoBodon/Corne-Case-Accesorie-Design/assets/55267042/57357c6a-0673-499f-b53c-35f9a1d84165)
-
+<img src="https://github.com/MateoBodon/Corne-Case-Accesorie-Design/assets/55267042/8c244ba0-3562-47c0-8e3b-fd2d0324cad0" height = "325">
+<img src="https://github.com/MateoBodon/Corne-Case-Accesorie-Design/assets/55267042/57357c6a-0673-499f-b53c-35f9a1d84165" height = "325">
 
 By selecting the appropriate variant and preparing your parts according to the instructions, you'll be on your way to assembling a functional and stylish magnetic keyboard case. Happy building!
 
