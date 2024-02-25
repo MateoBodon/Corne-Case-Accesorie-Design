@@ -33,12 +33,17 @@ This section will guide you through the process of choosing, downloading, and pr
  - **Super Glue**: Essential for securing the magnets in their designated slots. The recommended glue is Starbond EM-150 Medium, known for its strong hold. However, application can be tricky due to its flow; it's hard to control how much comes out, and excess glue tends to ooze out when not in use. [Purchase here](https://www.amazon.com/Starbond-EM-150-Medium-Premium-Cyanoacrylate/dp/B00C32MHJU/ref=sr_1_1_sspa?crid=1IH3AFUNRCKYB&keywords=ca+glue&qid=1708881751&sprefix=ca+glue%2Caps%2C114&sr=8-1-spons&psc=1). Additional products under testing for ease of application and control include (Will update my recommendation after use):
     - **Loctite Super Glue**: Offers strong adhesion with better control over the flow, appearing to be a strong contender for ease of use. [Purchase here](https://www.amazon.com/dp/B0006HUJCQ?ref=ppx_yo2ov_dt_b_product_details&th=1).
     - **Bob Smith Glue/Activator Combo**: Also looks promising for both control and hold, potentially offering a more user-friendly application process. [Purchase here](https://www.amazon.com/dp/B0166FFCHS?ref=ppx_yo2ov_dt_b_product_details&th=1).
-  
+
+- **Disposable Gloves**: Recommended for when gluing magnets as it can get a bit messy. These can be found on Amazon, local stores, or other online retailers.
+
+- **Parchment Paper**: Also recommended for the gluing process to prevent the glue from sticking to your work surface. Available at Amazon, local grocery stores, or craft stores.
+- 
 - **Leather Sheet**: If you choose to apply a leather sheet on your wrist rest for enhanced aesthetics and comfort. [Purchase here](https://www.amazon.com/gp/product/B08N68MVZD/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).
 
 - **Exacto Knife**: Essential for precision cutting of the wrist rest shapes out of the leather. [Purchase here](https://www.amazon.com/Fiskars-Exacto-Precision-Crafts-Protective/dp/B001A42CTW/ref=sr_1_1_sspa?crid=CM9VH09RUSUL&dib=eyJ2IjoiMSJ9.8j86bI_Zi8ezuZOCqkUu1sgSa9DDY7OfWpEg97C5b-vxO8B1ezW1UrEO_zXiqWOSXeFqQ9tHsVxOqMzeqUZcb1W-sTdY5seew0IydFs7MfE-SymB2MvQUImWFg1lcSAUaqvLaRkpnBT8gdUqOT9EAqm7X1pYc7E9FdmGtF9sBT4sRJngOfWgJy2WIYPUIAm80T_fOwQDueM3Kep9SSxKg0iF9U-XuvCUuL2o7N6mdg5aviNGt1U1hWuE_nf_Z0HWFSXPq8XJxDD0ThJJj1fJdbFv_yAShK4UZdyZMgnLzyg.ecUdeAFBLCcB15R2KXQalXP9zRTVURHRvh49j7GK9vQ&dib_tag=se&keywords=xacto+knife&qid=1708886636&sprefix=xacto+knife%2Caps%2C109&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1).
 
-#### Thin Variant Exclusive:
+
+#### Slim Variant Exclusive:
 
 - **110mAh 301230 Battery (2 required)**: Ensure the size of your battery matches the 301230 dimensions (30mm x 12mm x 3mm). [Purchase here](https://typeractive.xyz/products/lithium-battery-110mah?variant=43294731665639).
 
@@ -85,8 +90,8 @@ We have provided the STL files for all parts required to assemble the cases. Bel
 
 ### Comparison Image
 
-<img src="https://github.com/MateoBodon/Corne-Case-Accesorie-Design/assets/55267042/8c244ba0-3562-47c0-8e3b-fd2d0324cad0" height = "325">
-<img src="https://github.com/MateoBodon/Corne-Case-Accesorie-Design/assets/55267042/57357c6a-0673-499f-b53c-35f9a1d84165" height = "325">
+<img src="https://github.com/MateoBodon/Corne-Case-Accesorie-Design/assets/55267042/8c244ba0-3562-47c0-8e3b-fd2d0324cad0" height = "300">
+<img src="https://github.com/MateoBodon/Corne-Case-Accesorie-Design/assets/55267042/57357c6a-0673-499f-b53c-35f9a1d84165" height = "300">
 
 By selecting the appropriate variant and preparing your parts according to the instructions, you'll be on your way to assembling a functional and stylish magnetic keyboard case. Happy building!
 
