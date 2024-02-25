@@ -12,19 +12,35 @@ Welcome to the repository hosting my magnetic keyboard case designs for the Type
 
 These designs are specifically made for the 5 column Choc keyboard, with plans to accommodate other sizes in the future.
 
-## Attributions
-
-This project would not have been possible without the collaborative efforts of several key individuals in the keyboard community. Special thanks to:
-
-- **Jonathan Hsu (Jyojoh)** - For his invaluable assistance with prototyping and design. Jonathan's own collection of case designs serves as a great resource for enthusiasts and can be found [here](https://github.com/jyojoh/case-designs/tree/main).
-
-- **Nick Winans** - The founder of Nice-Keyboards and the creator of the Typeractive Corne. Learn more about his contributions [here](https://github.com/Nicell).
-
-- **Kosuke Adachi** - The original creator of the Corne Keyboard. Kosuke's pioneering work laid the foundation for this project and many others within the community. His GitHub profile can be found [here](https://github.com/foostan).
-
 ## Getting Started
 
 This section will guide you through the process of choosing, downloading, and preparing the STL files for printing. We offer designs in both Slim and Thick variants to cater to different preferences and requirements.
+
+### Materials List
+
+#### Shared:
+
+- **Magnets (88 required)**: Used to hold the keyboard case and carrying case together, and to hold the keyboard case and wrist rest together. It's crucial to get these exact magnets if possible, as magnet strength varies and the parts have been designed with these magnets in mind. If not available, make sure to use 6mm by 2mm round magnets and adjust the count as needed for strength. [Purchase here](https://www.amazon.com/gp/product/B07XRQ44VC/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). I suggest purchasing more than the required amount as it is easy to mess up the alignment, requiring you to restart.
+
+- **Rubber Feet (16 required)**: The keyboard case and wrist rest have indentations in the bottom meant for these rubber feet. [Purchase here](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet).
+
+#### Thin Variant Exclusive:
+
+- **110mAh 301230 Battery (2 required)**: Ensure the size of your battery matches the 301230 dimensions (30mm x 12mm x 3mm). [Purchase here](https://typeractive.xyz/products/lithium-battery-110mah?variant=43294731665639).
+
+- **Standoff and Screws**: You most likely won’t need these assuming you got your keyboard from Typeractive, as it already comes with the necessary screws and standoffs. [Purchase here if needed](https://www.amazon.com/gp/product/B07B9X1KY6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).
+
+#### Thick Variant Exclusive:
+
+- **Soldering Iron**: Required for the construction of the Thick Variant.
+
+- **Heatset Inserts and Tools**: Due to the thickness of the case, heatset inserts are used to create a thread for the standoffs. [Purchase inserts here](https://www.amazon.com/gp/product/B09MTS6ZZQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1). [Purchase tools here](https://www.amazon.com/gp/product/B09MTS6ZZQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&th=1).
+
+- **Standoffs and Screws**: Used for attaching the board to the heatset inserts. [Purchase here](https://www.amazon.com/gp/product/B07B9X1KY6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).
+
+- **1000mAh 523450 Battery (2 required)**: Ensure the size of your battery matches 523450 dimensions (52mm x 34mm x 5mm), and the battery lead should be about as long as the battery itself. [Purchase here](https://www.amazon.com/gp/product/B07BTHH72G/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).
+
+Now that you're familiar with the materials required for both variants, let's move on to choosing your variant and preparing for assembly.
 
 ### Choosing Your Variant
 
@@ -60,6 +76,16 @@ We have provided the STL files for all parts required to assemble the cases. Bel
 
 
 By selecting the appropriate variant and preparing your parts according to the instructions, you'll be on your way to assembling a functional and stylish magnetic keyboard case. Happy building!
+
+## Attributions
+
+This project would not have been possible without the collaborative efforts of several key individuals in the keyboard community. Special thanks to:
+
+- **Jonathan Hsu (Jyojoh)** - For his invaluable assistance with prototyping and design. Jonathan's own collection of case designs serves as a great resource for enthusiasts and can be found [here](https://github.com/jyojoh/case-designs/tree/main).
+
+- **Nick Winans** - The founder of Nice-Keyboards and the creator of the Typeractive Corne. Learn more about his contributions [here](https://github.com/Nicell).
+
+- **Kosuke Adachi** - The original creator of the Corne Keyboard. Kosuke's pioneering work laid the foundation for this project and many others within the community. His GitHub profile can be found [here](https://github.com/foostan).
 
 ## Contributing
 
