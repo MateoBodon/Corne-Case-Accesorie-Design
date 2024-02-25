@@ -24,6 +24,13 @@ This section will guide you through the process of choosing, downloading, and pr
 
 - **Rubber Feet (16 required)**: The keyboard case and wrist rest have indentations in the bottom meant for these rubber feet. [Purchase here](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet).
 
+ - **Super Glue**: Essential for securing the magnets in their designated slots. The recommended glue is Starbond EM-150 Medium, known for its strong hold. However, application can be tricky due to its flow; it's hard to control how much comes out, and excess glue tends to ooze out when not in use. [Purchase here](https://www.amazon.com/Starbond-EM-150-Medium-Premium-Cyanoacrylate/dp/B00C32MHJU/ref=sr_1_1_sspa?crid=1IH3AFUNRCKYB&keywords=ca+glue&qid=1708881751&sprefix=ca+glue%2Caps%2C114&sr=8-1-spons&psc=1). Additional products under testing for ease of application and control include (Will update my recommendation after use):
+    - **Loctite Super Glue**: Offers strong adhesion with better control over the flow, appearing to be a strong contender for ease of use. [Purchase here](https://www.amazon.com/dp/B0006HUJCQ?ref=ppx_yo2ov_dt_b_product_details&th=1).
+    - **Bob Smith Glue/Activator Combo**: Also looks promising for both control and hold, potentially offering a more user-friendly application process. [Purchase here](https://www.amazon.com/dp/B0166FFCHS?ref=ppx_yo2ov_dt_b_product_details&th=1).
+
+
+- **Leather Sheet**: If you choose to apply a leather sheet on your wrist rest for enhanced aesthetics and comfort. [Purchase here](https://www.amazon.com/gp/product/B08N68MVZD/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).
+
 #### Thin Variant Exclusive:
 
 - **110mAh 301230 Battery (2 required)**: Ensure the size of your battery matches the 301230 dimensions (30mm x 12mm x 3mm). [Purchase here](https://typeractive.xyz/products/lithium-battery-110mah?variant=43294731665639).
