@@ -27,9 +27,10 @@ This section will guide you through the process of choosing, downloading, and pr
  - **Super Glue**: Essential for securing the magnets in their designated slots. The recommended glue is Starbond EM-150 Medium, known for its strong hold. However, application can be tricky due to its flow; it's hard to control how much comes out, and excess glue tends to ooze out when not in use. [Purchase here](https://www.amazon.com/Starbond-EM-150-Medium-Premium-Cyanoacrylate/dp/B00C32MHJU/ref=sr_1_1_sspa?crid=1IH3AFUNRCKYB&keywords=ca+glue&qid=1708881751&sprefix=ca+glue%2Caps%2C114&sr=8-1-spons&psc=1). Additional products under testing for ease of application and control include (Will update my recommendation after use):
     - **Loctite Super Glue**: Offers strong adhesion with better control over the flow, appearing to be a strong contender for ease of use. [Purchase here](https://www.amazon.com/dp/B0006HUJCQ?ref=ppx_yo2ov_dt_b_product_details&th=1).
     - **Bob Smith Glue/Activator Combo**: Also looks promising for both control and hold, potentially offering a more user-friendly application process. [Purchase here](https://www.amazon.com/dp/B0166FFCHS?ref=ppx_yo2ov_dt_b_product_details&th=1).
-
-
+  
 - **Leather Sheet**: If you choose to apply a leather sheet on your wrist rest for enhanced aesthetics and comfort. [Purchase here](https://www.amazon.com/gp/product/B08N68MVZD/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).
+
+- **Exacto Knife**: Essential for precision cutting of the wrist rest shapes out of the leather. [Purchase here](https://www.amazon.com/Fiskars-Exacto-Precision-Crafts-Protective/dp/B001A42CTW/ref=sr_1_1_sspa?crid=CM9VH09RUSUL&dib=eyJ2IjoiMSJ9.8j86bI_Zi8ezuZOCqkUu1sgSa9DDY7OfWpEg97C5b-vxO8B1ezW1UrEO_zXiqWOSXeFqQ9tHsVxOqMzeqUZcb1W-sTdY5seew0IydFs7MfE-SymB2MvQUImWFg1lcSAUaqvLaRkpnBT8gdUqOT9EAqm7X1pYc7E9FdmGtF9sBT4sRJngOfWgJy2WIYPUIAm80T_fOwQDueM3Kep9SSxKg0iF9U-XuvCUuL2o7N6mdg5aviNGt1U1hWuE_nf_Z0HWFSXPq8XJxDD0ThJJj1fJdbFv_yAShK4UZdyZMgnLzyg.ecUdeAFBLCcB15R2KXQalXP9zRTVURHRvh49j7GK9vQ&dib_tag=se&keywords=xacto+knife&qid=1708886636&sprefix=xacto+knife%2Caps%2C109&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1).
 
 #### Thin Variant Exclusive:
 
@@ -71,7 +72,7 @@ For detailed insights into battery life calculations and optimizations, please r
 
 ### STL Files and Preparation
 
-We have provided the STL files for all parts required to assemble the cases. Below you will find links to the Slim and Thick variants of the cases. Choose the variant that best suits your needs and follow the printing instructions provided within each folder.
+We have provided the STL files for all parts required to assemble the cases. Below you will find links to the Slim and Thick variants of the cases. Choose the variant that best suits your needs and follow the instructions provided within each folder.
 
 - [Slim Variants](Choc-5col-Slim/)
 - [Thick Variants](Choc-5col-Thick/)
