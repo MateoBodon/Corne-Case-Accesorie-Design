@@ -100,7 +100,9 @@ We welcome contributions from the community. Whether you're looking to improve o
 
 ## License
 
-(Include information about the license under which you're releasing your designs, such as MIT, GPL, etc.)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+The MIT License is a permissive license that is short and to the point. It lets people do anything they want with your project as long as they provide attribution back to you and don’t hold you liable.
 
 ## Contact
 
@@ -108,4 +110,4 @@ Should you have any questions or wish to connect with me for collaborations, ple
 
 - **Mateo Bodon** - [mateobodon@gmail.com](mailto:mateobodon@gmail.com)
 
-Thank you for your interest in our Magnetic Cases for the Typeractive Corne. We look forward to growing this project with your support and feedback.
+Thank you for your interest in Magnetic Cases for the Typeractive Corne. I look forward to growing this project with your support and feedback.
