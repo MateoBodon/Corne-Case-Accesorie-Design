@@ -18,6 +18,32 @@ These designs are specifically made for the 5 column Choc keyboard, with plans t
 
 The parts to build the Typeractive Corne Keyboard can be purchased at [typeractive.xyz](https://typeractive.xyz). For resources and help building the keyboard, you can refer to their documentation [here](https://docs.typeractive.xyz/build-guides/corne-wireless) and this YouTube video [https://youtu.be/uT9ohua2RwY](https://youtu.be/uT9ohua2RwY). The magnetic cases are designed for completely assembled builds, ensuring a perfect fit and seamless integration with your custom Typeractive Corne Keyboard.
 
+## Features
+
+### Keyboard Case
+- **Cutouts for Power and Reset Switch:** Allows easy access to essential controls without removing the case.
+- **Magnetic Attachment:** Utilizes 19 magnets for secure attachment to both the carrying case and wrist rest.
+- **Rubber Feet Shaped Grooves:** Enhances installation ease and improves balance.
+- <img src="https://github.com/MateoBodon/Corne-Case-Accesorie-Design/assets/55267042/e54903bb-1731-4914-8efc-34530d71d911" height = "300">
+- <img src="https://github.com/MateoBodon/Corne-Case-Accesorie-Design/assets/55267042/9fe52d09-575b-410e-8557-b102aaef5d82" height = "300">
+
+### Carrying Case
+- **Symbol Indicators:** Features embedded left and right symbols for quick orientation.
+- **Finger Shaped Cutouts:** Offers easy removal of the keyboard from the case.
+- **USB-C Port Cutout:** Enables charging or the use of magnetic cables without removing the keyboard.
+- **Magnetic Attachment:** Comes with 15 magnets for a strong link to the keyboard case.
+- <img src="https://github.com/MateoBodon/Corne-Case-Accesorie-Design/assets/55267042/fa602617-a846-4b5f-87fc-0dd6d232e4e6" height = "300">
+- <img src="https://github.com/MateoBodon/Corne-Case-Accesorie-Design/assets/55267042/9ba20e16-ae43-451a-9028-f64200b50e4f" height = "300">
+
+### Wrist Rest
+- **Contoured Shape:** Designed to perfectly fit the keyboard case for maximum comfort.
+- **Ergonomic Curve:** Inspired by effective wrist rest designs for prolonged typing comfort.
+- **Rubber Feet Shaped Grooves:** Similar to the keyboard case for stability and ease of installation.
+- **Leather Sheet:** Adds a layer of comfort and enhances the aesthetic.
+- **Magnetic Attachment:** Features 10 magnets for easy attachment to the keyboard case.
+- <img src="https://github.com/MateoBodon/Corne-Case-Accesorie-Design/assets/55267042/77c4b5fa-021e-42da-aecd-6686ba8ebd01" height = "300">
+- <img src="https://github.com/MateoBodon/Corne-Case-Accesorie-Design/assets/55267042/04644431-8908-4d81-9736-1178fcc1c16e" height = "300">
+
 ## Getting Started
 
 This section will guide you through the process of choosing, downloading, and preparing the STL files for printing. We offer designs in both Slim and Thick variants to cater to different preferences and requirements.
@@ -41,7 +67,6 @@ This section will guide you through the process of choosing, downloading, and pr
 - **Leather Sheet**: If you choose to apply a leather sheet on your wrist rest for enhanced aesthetics and comfort. [Purchase here](https://www.amazon.com/gp/product/B08N68MVZD/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).
 
 - **Exacto Knife**: Essential for precision cutting of the wrist rest shapes out of the leather. [Purchase here](https://www.amazon.com/Fiskars-Exacto-Precision-Crafts-Protective/dp/B001A42CTW/ref=sr_1_1_sspa?crid=CM9VH09RUSUL&dib=eyJ2IjoiMSJ9.8j86bI_Zi8ezuZOCqkUu1sgSa9DDY7OfWpEg97C5b-vxO8B1ezW1UrEO_zXiqWOSXeFqQ9tHsVxOqMzeqUZcb1W-sTdY5seew0IydFs7MfE-SymB2MvQUImWFg1lcSAUaqvLaRkpnBT8gdUqOT9EAqm7X1pYc7E9FdmGtF9sBT4sRJngOfWgJy2WIYPUIAm80T_fOwQDueM3Kep9SSxKg0iF9U-XuvCUuL2o7N6mdg5aviNGt1U1hWuE_nf_Z0HWFSXPq8XJxDD0ThJJj1fJdbFv_yAShK4UZdyZMgnLzyg.ecUdeAFBLCcB15R2KXQalXP9zRTVURHRvh49j7GK9vQ&dib_tag=se&keywords=xacto+knife&qid=1708886636&sprefix=xacto+knife%2Caps%2C109&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1).
-
 
 #### Slim Variant Exclusive:
 
